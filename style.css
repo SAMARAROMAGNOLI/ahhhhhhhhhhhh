@@ -1,0 +1,19 @@
+.cabeçalho h1{background-color: red;
+    padding: 45PX;
+  
+    margin: 0   ;
+    text-align: center;
+}
+.corpo{ background-color:rgb(236, 94, 94)
+
+}
+
+.fotos{
+text-align: center;
+}
+
+p{color: darkred;
+font-family: Arial, Helvetica, sans-serif;
+font-size: x-large}
+.rodape{color: darkred;}
+h2{color: rgb(131, 2, 2);}
